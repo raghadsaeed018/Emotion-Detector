@@ -1,2 +1,2 @@
-Flask==<version>
-requests==<version>
+Flask
+requests
